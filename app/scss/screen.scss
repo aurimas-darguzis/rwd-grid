@@ -1,0 +1,21 @@
+// This is where you import your scss partials.//
+
+@import "compass";
+
+@import "lib/colors";
+@import "lib/grid";
+@import "lib/typography";
+
+@import "content";
+@import "layout";
+
+
+// Media Queries //
+
+@media only screen and (min-width: 35em) {
+  @import "layout/medium";
+}
+
+@media only screen and (min-width: 55em) {
+  @import "layout/large";
+}
