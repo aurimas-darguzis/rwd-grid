@@ -5,7 +5,6 @@
 
 This is a simple demo page using the responsive grid. It's a 12-column grid that uses percentages for everything. The values I used for gutter and column widths are calculated to never be more granular than an eighth of a percent, to avoid rounding issues.
 
-Here are the major points:
 
 ## Infinitely Nest-able
 
