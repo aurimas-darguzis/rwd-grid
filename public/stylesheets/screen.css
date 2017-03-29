@@ -117,6 +117,7 @@ footer {
     margin-right: 3.5%;
     float: left;
     clear: none;
+    
   }
   .lt-ie8 #home-featured-items .featured-item:nth-child(n) {
     margin-right: 3.25%;
