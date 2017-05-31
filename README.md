@@ -1,5 +1,4 @@
 # rwd-grid
-## DEMO: http://aurimas.darguzis.com/projects/rwd-grid/
 
 # Responsive Grid Example
 
